@@ -14,3 +14,7 @@ Fontes:
 
 * https://docs.docker.com/docker-hub/repos/
 * https://www.cloudreach.com/en/resources/blog/cts-build-golang-dockerfiles/
+
+* https://gobuffalo.io/en/docs/getting-started/new-project#create-a-new-project
+* https://www.gopherguides.com/articles/converting-a-static-website-to-golang-buffalo/
+* https://docs.docker.com/engine/reference/commandline/run/
