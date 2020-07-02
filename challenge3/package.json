@@ -1,0 +1,14 @@
+{
+  "name": "true",
+  "version": "1.0.0",
+  "description": "Sample OpenWhisk NodeJS serverless framework service.",
+  "main": "handler.js",
+  "keywords": [
+    "serverless",
+    "openwhisk"
+  ],
+  "devDependencies": {
+    "serverless-offline": "^6.4.0",
+    "serverless-openwhisk": ">=0.13.0"
+  }
+}
