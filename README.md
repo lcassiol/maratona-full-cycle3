@@ -5,7 +5,7 @@
 * 1 - [Hello Full Cycle utilizando Golang e Docker](https://github.com/lcassiol/maratona-full-cycle3/tree/master/challenge-1)
 * 2 - [Hello Full Cycle utilizando Buffalo](https://github.com/lcassiol/maratona-full-cycle3/tree/master/challenge22)
 * 3 - [Endpoint serverless que realiza uma operação de soma](https://github.com/lcassiol/maratona-full-cycle3/tree/master/challenge3)
-* 4 - Listagem das lives com Django e SQLite
+* 4 - [Listagem das lives com Django e SQLite](https://github.com/lcassiol/maratona-full-cycle3/tree/master/challenge4)
 * 5 - Endpoint com a programação das aulas com Nest.js e SQLite
 
 
