@@ -1,0 +1,48 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: #c25100;
+  font-size: 60px;
+  margin-bottom: 0;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+.container {
+  border-top-style: solid;
+  border-top-width: 0.3pt;
+  border-top-color: darkgrey;
+}
+
+.list {
+  margin-top: 20px;
+  margin-left: 40px;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 50px;
+  list-style: none;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.video-title {
+  text-align: center;
+}
+
+img {
+  margin-top: 8px;
+  width: 100px;
+  height: 100px;
+  align-self: center;
+}

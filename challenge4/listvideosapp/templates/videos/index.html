@@ -1,0 +1,19 @@
+<div class="basic">
+  {% include "videos/base.html" %}
+</div>
+{% if video_list %}
+<div class="container">
+  <ul class="list">
+    {% for video in video_list %}
+    <li>
+      <div class="list-item">
+        <b class="video-title">{{ video.title }}</b>
+        <img src="{{video.image_url}}" />
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% else %}
+<p>Nenhuma aula cadastrada.</p>
+{% endif %}
