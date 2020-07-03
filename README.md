@@ -24,3 +24,7 @@
 * https://www.serverless.com/plugins/serverless-offline
 * https://www.serverless.com/framework/docs/providers/openwhisk/guide/credentials/
 * https://www.youtube.com/watch?v=RRaWMX8dtms
+
+* https://docs.djangoproject.com/en/3.0/intro/tutorial01/
+* https://gist.github.com/haircut/14705555d58432a5f01f9188006a04ed
+* https://tutorial.djangogirls.org/pt/css/
