@@ -32,3 +32,4 @@
 * https://docs.nestjs.com
 * https://www.techiediaries.com/nestjs-tutorial-rest-api-crud/
 * https://stackoverflow.com/questions/55301339/nestjs-typeorm-unable-to-connect-to-mysql
+* https://blog.logrocket.com/containerized-development-nestjs-docker/
