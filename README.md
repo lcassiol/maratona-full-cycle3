@@ -6,7 +6,7 @@
 * 2 - [Hello Full Cycle utilizando Buffalo](https://github.com/lcassiol/maratona-full-cycle3/tree/master/challenge22)
 * 3 - [Endpoint serverless que realiza uma operação de soma](https://github.com/lcassiol/maratona-full-cycle3/tree/master/challenge3)
 * 4 - [Listagem das lives com Django e SQLite](https://github.com/lcassiol/maratona-full-cycle3/tree/master/challenge4)
-* 5 - Endpoint com a programação das aulas com Nest.js e SQLite
+* 5 - [Endpoint com a programação das aulas com Nest.js e SQLite](https://github.com/lcassiol/maratona-full-cycle3/tree/master/challenge5)
 
 
 -----------------------------
@@ -28,3 +28,7 @@
 * https://docs.djangoproject.com/en/3.0/intro/tutorial01/
 * https://gist.github.com/haircut/14705555d58432a5f01f9188006a04ed
 * https://tutorial.djangogirls.org/pt/css/
+
+* https://docs.nestjs.com
+* https://www.techiediaries.com/nestjs-tutorial-rest-api-crud/
+* https://stackoverflow.com/questions/55301339/nestjs-typeorm-unable-to-connect-to-mysql
