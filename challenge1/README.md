@@ -7,3 +7,6 @@ Passos necessários:
 * Gerar e publicar uma imagem no Dockerhub do executável do programa "Olá Mundo".
 * Postar nos comentários do vídeo a URL da sua imagem para que possamos executar o seu "Olá Mundo"
 
+
+
+* https://hub.docker.com/r/lcassiol/full-cycle-challenge-1
