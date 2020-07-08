@@ -8,5 +8,5 @@ Passos necessários:
 * Postar nos comentários do vídeo a URL da sua imagem para que possamos executar o seu "Olá Mundo"
 
 
-
-* https://hub.docker.com/r/lcassiol/full-cycle-challenge-1
+----------------------------------------------------
+https://hub.docker.com/r/lcassiol/full-cycle-challenge-1
